@@ -60,3 +60,5 @@ crashlytics-build.properties
 
 # Add
 /AssetDataBase/Library/
+/AssetDataBase/Logs
+/AssetDataBase/Temp
